@@ -1,0 +1,201 @@
+Person ID,Gender_Female,Gender_Male,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
+103,1.0,0.0,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,NO
+56,0.0,1.0,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+307,1.0,0.0,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia
+189,1.0,0.0,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia
+247,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+76,0.0,1.0,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+217,0.0,1.0,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,NO
+250,0.0,1.0,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,NO
+24,0.0,1.0,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+261,1.0,0.0,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+301,1.0,0.0,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+331,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+181,0.0,1.0,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,NO
+129,0.0,1.0,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,NO
+293,1.0,0.0,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+344,1.0,0.0,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,NO
+179,0.0,1.0,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,NO
+242,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+89,0.0,1.0,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,NO
+74,0.0,1.0,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,NO
+13,0.0,1.0,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,NO
+360,1.0,0.0,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,NO
+172,0.0,1.0,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,NO
+33,1.0,0.0,31,Nurse,7.9,8,75,4,Normal Weight,117/76,69,6800,NO
+102,1.0,0.0,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,NO
+121,1.0,0.0,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,NO
+257,1.0,0.0,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+343,1.0,0.0,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,NO
+356,1.0,0.0,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+347,1.0,0.0,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+28,0.0,1.0,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,NO
+338,1.0,0.0,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,NO
+267,0.0,1.0,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia
+300,1.0,0.0,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+119,1.0,0.0,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,NO
+340,1.0,0.0,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea
+49,0.0,1.0,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+182,0.0,1.0,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,NO
+202,0.0,1.0,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia
+221,1.0,0.0,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+316,1.0,0.0,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia
+112,0.0,1.0,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,NO
+154,0.0,1.0,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,NO
+146,1.0,0.0,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea
+246,1.0,0.0,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+235,1.0,0.0,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+345,1.0,0.0,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+201,0.0,1.0,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+216,0.0,1.0,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,NO
+326,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+286,1.0,0.0,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+110,0.0,1.0,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,NO
+357,1.0,0.0,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+259,1.0,0.0,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+15,0.0,1.0,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,NO
+363,1.0,0.0,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+291,1.0,0.0,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+54,0.0,1.0,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,NO
+228,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+222,0.0,1.0,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+4,0.0,1.0,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea
+237,0.0,1.0,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+253,1.0,0.0,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+335,1.0,0.0,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,NO
+308,1.0,0.0,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia
+86,1.0,0.0,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,NO
+107,1.0,0.0,37,Nurse,6.1,6,42,6,Overweight,126/83,77,4200,NO
+149,1.0,0.0,39,Lawyer,6.9,7,50,6,Normal Weight,128/85,75,5500,NO
+2,0.0,1.0,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,NO
+163,1.0,0.0,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,NO
+41,0.0,1.0,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+373,1.0,0.0,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+306,1.0,0.0,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+354,1.0,0.0,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+36,0.0,1.0,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,NO
+126,1.0,0.0,37,Nurse,7.5,8,60,4,Normal Weight,120/80,70,8000,NO
+1,0.0,1.0,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,NO
+30,0.0,1.0,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,NO
+369,1.0,0.0,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+281,1.0,0.0,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,NO
+82,1.0,0.0,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea
+151,1.0,0.0,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,NO
+3,0.0,1.0,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,NO
+275,1.0,0.0,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+227,1.0,0.0,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+283,1.0,0.0,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+22,0.0,1.0,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+78,0.0,1.0,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+330,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+173,0.0,1.0,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,NO
+255,1.0,0.0,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+339,1.0,0.0,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+362,1.0,0.0,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+245,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+358,1.0,0.0,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+239,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+134,1.0,0.0,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,NO
+60,0.0,1.0,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+251,1.0,0.0,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia
+371,1.0,0.0,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+198,0.0,1.0,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+346,1.0,0.0,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+43,0.0,1.0,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+205,0.0,1.0,43,Engineer,7.6,8,75,4,Overweight,122/80,68,6800,NO
+14,0.0,1.0,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,NO
+324,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+188,0.0,1.0,43,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+61,0.0,1.0,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+39,0.0,1.0,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,NO
+32,1.0,0.0,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Insomnia
+104,0.0,1.0,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea
+226,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+364,1.0,0.0,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+323,1.0,0.0,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,NO
+17,1.0,0.0,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea
+190,0.0,1.0,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+232,0.0,1.0,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+266,1.0,0.0,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+164,0.0,1.0,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,NO
+46,0.0,1.0,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,NO
+210,0.0,1.0,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,NO
+40,0.0,1.0,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,NO
+20,0.0,1.0,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,NO
+6,0.0,1.0,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia
+321,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+138,0.0,1.0,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,NO
+59,0.0,1.0,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+268,1.0,0.0,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,NO
+150,1.0,0.0,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,NO
+341,1.0,0.0,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea
+148,0.0,1.0,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia
+141,1.0,0.0,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,NO
+191,1.0,0.0,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia
+241,1.0,0.0,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+144,1.0,0.0,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,NO
+365,1.0,0.0,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+124,1.0,0.0,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,NO
+171,0.0,1.0,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,NO
+162,1.0,0.0,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,NO
+23,0.0,1.0,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+166,0.0,1.0,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia
+45,0.0,1.0,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+10,0.0,1.0,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,NO
+120,1.0,0.0,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,NO
+352,1.0,0.0,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+168,0.0,1.0,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,NO
+240,0.0,1.0,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+303,1.0,0.0,51,Nurse,7.1,7,55,6,Normal Weight,125/82,72,6000,NO
+165,0.0,1.0,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,NO
+273,1.0,0.0,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+77,0.0,1.0,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+320,1.0,0.0,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,NO
+195,0.0,1.0,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+361,1.0,0.0,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+351,1.0,0.0,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+7,0.0,1.0,29,Teacher,6.3,6,40,7,Obese,140/90,82,3500,Insomnia
+304,1.0,0.0,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+75,0.0,1.0,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,NO
+366,1.0,0.0,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+224,0.0,1.0,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+186,1.0,0.0,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea
+81,1.0,0.0,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea
+42,0.0,1.0,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,NO
+183,0.0,1.0,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,NO
+44,0.0,1.0,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,NO
+342,1.0,0.0,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,NO
+312,1.0,0.0,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+318,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+359,1.0,0.0,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,NO
+143,1.0,0.0,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,NO
+355,1.0,0.0,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+159,0.0,1.0,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,NO
+220,0.0,1.0,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea
+83,0.0,1.0,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,NO
+140,0.0,1.0,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,NO
+334,1.0,0.0,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,NO
+70,1.0,0.0,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,NO
+279,1.0,0.0,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia
+137,1.0,0.0,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,NO
+208,0.0,1.0,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,NO
+132,0.0,1.0,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,NO
+292,1.0,0.0,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+328,1.0,0.0,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,NO
+174,0.0,1.0,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,NO
+161,0.0,1.0,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,NO
+370,1.0,0.0,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+156,0.0,1.0,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,NO
+29,0.0,1.0,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,NO
+106,0.0,1.0,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia
+211,0.0,1.0,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,NO
+19,1.0,0.0,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Insomnia
+367,1.0,0.0,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+238,1.0,0.0,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+274,1.0,0.0,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+285,1.0,0.0,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+167,0.0,1.0,41,Engineer,7.3,8,70,6,Normal Weight,121/79,72,6200,NO
+69,1.0,0.0,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,NO
+313,1.0,0.0,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,NO
+298,1.0,0.0,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+368,1.0,0.0,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
